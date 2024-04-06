@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm ˚˖𓍢ִ໋🌷͙֒✧Isha Rana˚🎀༘⋆</h1>
+<h1 align="center">Hi 👋, I'm Isha Rana ˚˖𓍢ִ໋🌷͙֒✧˚🎀༘⋆</h1>
 <h3 align="center">A Committed competitive programmer ‧₊˚🖇️✩ ₊˚🎧⊹♡</h3>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2646428/screenshots/15215756/media/72cd9f5fc1f5034ed5b63c8b8f9bbdd1.gif" alt="Coding Animation" width="300" />
+  <img src="https://github.com/Isha-Rana/Isha-Rana/blob/main/girls.gif?raw=true" alt="Coding Animation" width="300" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha-rana&label=Profile%20views&color=0e75b6&style=flat" alt="isha-rana" /> </p>
 
