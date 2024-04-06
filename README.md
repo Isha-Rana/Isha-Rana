@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ayhnR1dM2E1WXKHB3sccB2kPg1qB1SlY/view?usp=sharing](https://drive.google.com/file/d/1ayhnR1dM2E1WXKHB3sccB2kPg1qB1SlY/view?usp=sharing)
 
-- ⚡ Fun fact **I'm good at Drwaing :)**
+- ⚡ Fun fact **I'm good at Drawing :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
